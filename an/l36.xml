@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>l36.png</filename>
+	<path>/home/vasily/Projects/product_detection/labelImg-1.8.1/data/l36.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>svet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>23</ymin>
+			<xmax>217</xmax>
+			<ymax>46</ymax>
+		</bndbox>
+	</object>
+</annotation>
